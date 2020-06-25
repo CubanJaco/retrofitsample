@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit Test</string>
+    <string name="post_42">Post 42</string>
+    <string name="post_random">Post Aleatorio</string>
+    <string name="post_error">Post Inexistente</string>
+    <string name="network_error">Error de conexión</string>
+    <string name="error_code">Código de error:</string>
+    <string name="loading">Cargando&#8230;</string>
+</resources>
